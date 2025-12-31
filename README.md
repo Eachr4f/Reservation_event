@@ -79,9 +79,9 @@
 
 2. **Configurer le stockage des images**
    
-   Modifiez le chemin `basePath` dans `ImageUtils.java` :
+   Modifiez le chemin `UPLOAD_RELATIVE_PATH` dans `ImageUtils.java` :
    ```java
-   private static final String basePath = "/votre/chemin/uploads/";
+   private static final String UPLOAD_RELATIVE_PATH = "/votre/chemin/uploads/";
    ```
 
 3. **Configurer la base de données** (optionnel)
