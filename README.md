@@ -218,10 +218,4 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ---
 
-<div align="center">
-
-**⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile ! ⭐**
-
-Made with ❤️ and ☕ by a passionate duo
-
-</div>
+>
